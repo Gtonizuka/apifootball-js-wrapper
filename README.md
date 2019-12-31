@@ -4,14 +4,18 @@ This is a Javascript library (built on Typescript) that serves as a wrapper for 
 
 # Installing
 
+To install just clone this repo and import the library into your project.
+
 # Usage
 
-To bootstrapp the app you need to initiate the main service with a `API_KEY`.
+To bootstrap the library you need to initiate the main service with a `API_KEY`.
 E.G. 
 
 ```typescript
     const apiWrapper = new MainService('YOUR_API_KEY') 
 ```
+
+## List of actions
 
 Get standings for EPL:
 
