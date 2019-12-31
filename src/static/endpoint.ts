@@ -1,0 +1,1 @@
+export const ENDPOINT: string = 'https://apiv2.apifootball.com/?'
